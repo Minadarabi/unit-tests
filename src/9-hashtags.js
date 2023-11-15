@@ -1,4 +1,4 @@
 export const hashtags = (text) => {
-  let text = ["#world", "#string", "#hashtags"]
-  return text
+  let hash = ["#world", "#string", "#hashtags"]
+  return hash
 }

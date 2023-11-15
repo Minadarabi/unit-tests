@@ -1,3 +1,4 @@
 export const multiply = (a, b) => {
-  a * b
+ let x =  a * b
+ return x
 }

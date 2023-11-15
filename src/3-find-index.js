@@ -1,3 +1,7 @@
 export const findIndex = (array, value) => {
-  return
+  const ind = array.indexOf(value)
+  if(array.length === 0){
+    return "No items!"
+  }
+  return ind
 }
